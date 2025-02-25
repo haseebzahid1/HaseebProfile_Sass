@@ -122,7 +122,7 @@ $("#main-nav a").on('click', function(event) {
 
      // typing text animation script
      let typed = new Typed(".typing", {
-      strings: ["Zahid"],
+      strings: ["Zahid", "Developer", "Designer"],
       typeSpeed: 100,
       backSpeed: 100,
       loop: true
